@@ -1,5 +1,7 @@
 # ⚛️⚡ Vite + React + Typescript Component Library Template
 
+自定义组件库模板
+
 ## Features
 
 - ⚛️ [React 18](https://reactjs.org/)
